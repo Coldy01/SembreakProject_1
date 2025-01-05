@@ -6,3 +6,9 @@ Any type of modifications will create a different branches so the old ones will 
 thankyou.
 
 -Cy
+
+
+ABOUOT THE FILE:
+
+1. edit only the html for the text
+2. 
