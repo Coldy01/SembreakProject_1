@@ -8,7 +8,10 @@ thankyou.
 -Cy
 
 
-ABOUT THE FILE:
+IDEAS FOR UPDATE
 
-1. edit only the html for the text
-2. 
+1. Upload image
+2. Different layout
+3. Different theme
+4. Theme choice
+5. Can be edited thru browser (interactive)
